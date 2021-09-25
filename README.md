@@ -36,7 +36,7 @@ After the refactoing of the code, the time to execute the code was improved sign
 ![Results 2017 Performance Increase](/resources/Results_Stock_2017_ref.PNG)
 ![Results 2018 Performance Increase](/resources/Results_Stock_2018_ref.PNG)
   
- ##Summary
+##Summary
  ---
 After refactoring the VBA code, the performance increase was significant.  Refactoring code is an industry best 
 prcatice, often the initial codes meets the requirements, but not until the code is complete can it then be reviewed 
