@@ -16,25 +16,25 @@ compared to 2018, only 2 stocks had positive returns as compared to the start of
 additional stock data for 2019 or 2020 before making a decision on investing. 
 
 ### Performance 2017
-!![2017 Green Stock Performance](/resources/Results_Stock_2017.PNG) 
+![2017 Green Stock Performance](/resources/Results_Stock_2017.PNG) 
 ### Performance 2018
-!![2018 Green Stock Performance](/stock-analysis/tree/main/resources/Results_Stock_2018.png) 
+![2018 Green Stock Performance](/resources/Results_Stock_2018.PNG) 
  
 ## Refactoring Results
  ---
 Refactoring the original VBA code was a challenge for me.  A timer function was used to capture the start 
 and end of of the code execution. 
 ---
-![picture of timer](/stock-analysis/resources/Results_Stock_2018.png) 
+![picture of timer](/resources/Results_Stock_2018.PNG) 
 To improve the codes performance an index was added so as the script ran through the data and stored the 
 information.  the prvious VBA code would output the data after each stock was analilized. 
 ---
-![Initializing tickerIndex](/resources/int_tickerIndex.png) 
+![Initializing tickerIndex](/resources/int_tickerIndex.PNG) 
  
 After the refactoing of the code, the time to execute the code was improved significantly approximetaly 10 times faster.
 ---
-![Results 2017 Performance Increase](/resources/Results_Stock_2017_ref.png)
-![Results 2018 Performance Increase](/resources/Results_Stock_2018_ref.png)
+![Results 2017 Performance Increase](/resources/Results_Stock_2017_ref.PNG)
+![Results 2018 Performance Increase](/resources/Results_Stock_2018_ref.PNG)
   
  ##Summary
  ---
