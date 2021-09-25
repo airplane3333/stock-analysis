@@ -25,7 +25,7 @@ additional stock data for 2019 or 2020 before making a decision on investing.
 Refactoring the original VBA code was a challenge for me.  A timer function was used to capture the start 
 and end of of the code execution. 
 
-![picture of timer](/resources/Results_Stock_2018.PNG) 
+![Use of Timmer](/resources/Timer_fun.PNG) 
 To improve the codes performance an index was added so as the script ran through the data and stored the 
 information.  the prvious VBA code would output the data after each stock was analilized. 
 
