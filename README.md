@@ -21,18 +21,18 @@ additional stock data for 2019 or 2020 before making a decision on investing.
 ![2018 Green Stock Performance](/resources/Results_Stock_2018.PNG) 
  
 ## Refactoring Results
- ---
+---
 Refactoring the original VBA code was a challenge for me.  A timer function was used to capture the start 
 and end of of the code execution. 
----
+
 ![picture of timer](/resources/Results_Stock_2018.PNG) 
 To improve the codes performance an index was added so as the script ran through the data and stored the 
 information.  the prvious VBA code would output the data after each stock was analilized. 
----
+
 ![Initializing tickerIndex](/resources/int_tickerIndex.PNG) 
  
 After the refactoing of the code, the time to execute the code was improved significantly approximetaly 10 times faster.
----
+
 ![Results 2017 Performance Increase](/resources/Results_Stock_2017_ref.PNG)
 ![Results 2018 Performance Increase](/resources/Results_Stock_2018_ref.PNG)
   
